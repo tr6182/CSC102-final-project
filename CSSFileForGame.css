@@ -1,0 +1,30 @@
+body
+{
+  background-image: linear-gradient(rgb(0, 0, 0),rgb(34, 32, 32));
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
+#myButton{
+  background-image: -webkit-radial-gradient(gold,purple);
+    background-color: blue;
+    color:white;
+    height: 100px;
+    width: 100;
+}
+#rand1{
+  color: white;
+}
+#rand2{
+  color: white;
+}
+#result{
+  color:white;
+}
+#average{
+  color:white;
+}
+#score
+{
+  color: white;
+}
